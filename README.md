@@ -15,7 +15,7 @@
 ### 3.DOM
 <br>节点分为元素节点、属性节点、文本节点
 <br>document.getElementById  根据id获取元素节点
-<br>document.getElementByTagName 根据标签名获取对象数组，对应着一组元素节点
+<br>document.getElementsByTagName 根据标签名获取对象数组，对应着一组元素节点
 <br>document.getElementByClassName 根据类名获取对象数组，对应着一组元素节点
 <br>grtAttribute 获取元素属性
 <br>setAttribute 设置元素属性
