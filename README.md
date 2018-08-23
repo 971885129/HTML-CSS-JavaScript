@@ -20,9 +20,14 @@
 <br>grtAttribute 获取元素属性
 <br>setAttribute 设置元素属性
 <br>node.nodetype 获取节点属性值
-<br>element.childNodes 获取一个元素的所有子元素
+<br> \<element>.childNodes 获取一个元素的所有子元素
 <br>node.nodeValue 
 <br>firstChild
 <br>lastChild
 <br>平稳退化
-<br>
+<br>object.innerHTML插入大段内容
+<br>document.createElement 创建元素节点
+<br>document.createTextNode 创建文本节点
+<br> \<element>.appendChild 
+<br> \<element>.parentNode.insertBefore(newElement,Targetelement) 在指定元素前添加
+<br>Ajax 异步请求
