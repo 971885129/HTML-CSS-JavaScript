@@ -30,4 +30,7 @@
 <br>document.createTextNode 创建文本节点
 <br> \<element>.appendChild 
 <br> \<element>.parentNode.insertBefore(newElement,Targetelement) 在指定元素前添加
+<br> \<element>.parentNode.insertAfter(newElement,Targetelement) 在指定元素后添加,该方法为自定义。
 <br>Ajax 异步请求
+<br> \<element>.firstCild
+<br> \<element>.lastCild
