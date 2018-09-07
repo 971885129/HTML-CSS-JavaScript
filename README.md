@@ -1,5 +1,10 @@
-# HTML
+# HTML5
+侧边栏元素<aside><nav>
+<br>一般以标题为开头的区块使用<section>,反之使用<div>
+<br><main>元素包裹主要内容，对屏幕阅读器重要，可以跳过次要内容，仅显示<main>元素包裹的内容,一个页面只能有一个<main>
+<br>
 # CSS
+
 # JavaScript
 ### 1.注意
 声明变量 var 【变量】
